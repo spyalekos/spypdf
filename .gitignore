@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+build/
+dist/
+*.spec
+*.pdf
+out.txt
+crash_log.txt
